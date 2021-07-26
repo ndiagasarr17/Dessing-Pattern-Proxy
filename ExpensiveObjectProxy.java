@@ -9,3 +9,5 @@ public class ExpensiveObjectProxy implements ExpensiveObject {
         object.process();
     }
 }
+
+//Nous allons maintenant utiliser le modèle Proxy et initialiser notre objet à la demande
