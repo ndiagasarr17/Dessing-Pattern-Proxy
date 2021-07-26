@@ -6,13 +6,15 @@ public class ExpensiveObjectImpl implements ExpensiveObject {
     
     @Override
     public void process() {
-        System.out.println("processing complete.");
+        System.out.println("Traitement Terminé.");
        
     }
     
     private void heavyInitialConfiguration() {
-        System.out.println("Loading initial configuration...");
+        System.out.println("Chargement de la configuration initiale...");
         
     }
     
 }
+
+//l'implementation de notre interface avec plus de configurations
