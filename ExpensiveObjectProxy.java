@@ -10,4 +10,4 @@ public class ExpensiveObjectProxy implements ExpensiveObject {
     }
 }
 
-//Nous allons maintenant utiliser le modèle Proxy et initialiser notre objet à la demande
+//Nous allons maintenant utiliser le modèle Proxy et initialiser notre objet à la demande. 
